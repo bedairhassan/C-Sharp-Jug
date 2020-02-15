@@ -1,0 +1,11 @@
+C:\Hassan\workspaces\C#\project1\bin\Debug\netcoreapp3.1\C#.exe
+C:\Hassan\workspaces\C#\project1\bin\Debug\netcoreapp3.1\C#.deps.json
+C:\Hassan\workspaces\C#\project1\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+C:\Hassan\workspaces\C#\project1\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+C:\Hassan\workspaces\C#\project1\bin\Debug\netcoreapp3.1\C#.dll
+C:\Hassan\workspaces\C#\project1\bin\Debug\netcoreapp3.1\C#.pdb
+C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.dll
+C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.pdb

@@ -31,6 +31,16 @@ namespace C_
             Product p2 = new Product(p);
             p2.jug2.fillFull();
             p2.jug1.Display(p2.jug2);
+
+            // empty1
+            Product p3 = new Product(p);
+            p3.jug1.Empty();
+            p3.jug1.Display(p3.jug2);
+
+            // empty2
+            Product p4 = new Product(p);
+            p4.jug2.Empty();
+            p4.jug1.Display(p4.jug2);
         }
     }
 }

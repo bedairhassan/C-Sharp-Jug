@@ -47,6 +47,9 @@ namespace C_
             //return sol;
         }
 
-        
+        public void Empty(){
+
+            this.current=0;
+        }
     }
 }

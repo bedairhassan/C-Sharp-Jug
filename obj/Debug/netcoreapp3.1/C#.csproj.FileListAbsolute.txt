@@ -9,3 +9,14 @@ C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.c
 C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
 C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.dll
 C:\Hassan\workspaces\C#\project1\obj\Debug\netcoreapp3.1\C#.pdb
+c:\Hassan\workspaces\C#\C-Sharp-Jug\bin\Debug\netcoreapp3.1\C#.exe
+c:\Hassan\workspaces\C#\C-Sharp-Jug\bin\Debug\netcoreapp3.1\C#.deps.json
+c:\Hassan\workspaces\C#\C-Sharp-Jug\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+c:\Hassan\workspaces\C#\C-Sharp-Jug\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+c:\Hassan\workspaces\C#\C-Sharp-Jug\bin\Debug\netcoreapp3.1\C#.dll
+c:\Hassan\workspaces\C#\C-Sharp-Jug\bin\Debug\netcoreapp3.1\C#.pdb
+c:\Hassan\workspaces\C#\C-Sharp-Jug\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+c:\Hassan\workspaces\C#\C-Sharp-Jug\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+c:\Hassan\workspaces\C#\C-Sharp-Jug\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+c:\Hassan\workspaces\C#\C-Sharp-Jug\obj\Debug\netcoreapp3.1\C#.dll
+c:\Hassan\workspaces\C#\C-Sharp-Jug\obj\Debug\netcoreapp3.1\C#.pdb

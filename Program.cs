@@ -6,7 +6,7 @@ namespace C_
     {
         static void Main(string[] args)
         {
-            Jug jug = new Jug(0,5);
+            Jug jug = new Jug(4,5);
             Jug jug2 = new Jug(1,3);
             
             Product.Cases(new Product(jug,jug2));

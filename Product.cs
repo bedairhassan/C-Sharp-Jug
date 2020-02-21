@@ -18,11 +18,15 @@ namespace C_
             this.jug2 = new Jug(previousProduct.jug2);
         }
 
-        public static void Display(Product initialState,ArrayList products,Boolean DisplayDescription){
+        public static void Display(Product initialState,ArrayList products,Boolean DisplayDescription,int RightArrow=0){
 
             initialState.DisplayTwoJugs();
 
             foreach(Product p in products){
+
+                for(int i=0;i<RightArrow;i++){
+                    Console.Write(">");
+                }
 
                 p.DisplayTwoJugs(DisplayDescription);
             }

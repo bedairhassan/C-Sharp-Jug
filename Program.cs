@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace C_
 {
@@ -6,10 +7,14 @@ namespace C_
     {
         static void Main(string[] args)
         {
-            Jug jug = new Jug(4,5);
-            Jug jug2 = new Jug(1,3);
-            
-            Product.Cases(new Product(jug,jug2));
+            Jug jug2 = new Jug(6, 7);
+            Jug jug1 = new Jug(3, 10);
+
+            Product initialState = new Product(jug2,jug1);
+
+
+            ArrayList products = Product.Cases(initialState);
+            Product.Display(initialState,products,true);
         }
     }
 }

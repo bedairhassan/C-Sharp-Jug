@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Hassan\\workspaces\\C#\\C-Sharp-Jug\\C#.csproj",
+      "projectUniqueName": "c:\\him\\workspaces\\C#\\C-Sharp-Jug\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "c:\\Hassan\\workspaces\\C#\\C-Sharp-Jug\\C#.csproj",
+      "projectPath": "c:\\him\\workspaces\\C#\\C-Sharp-Jug\\C#.csproj",
       "packagesPath": "C:\\Users\\hassanwork\\.nuget\\packages\\",
-      "outputPath": "c:\\Hassan\\workspaces\\C#\\C-Sharp-Jug\\obj\\",
+      "outputPath": "c:\\him\\workspaces\\C#\\C-Sharp-Jug\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hassanwork\\AppData\\Roaming\\NuGet\\NuGet.Config"
